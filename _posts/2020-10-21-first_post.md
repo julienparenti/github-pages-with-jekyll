@@ -1,6 +1,9 @@
-# My first post
+---
+title: "first_post"
+date: 2020-10-21
+---
 
-blablabla 
+# My first post
 
 ```python
 def write_some_code(code):
